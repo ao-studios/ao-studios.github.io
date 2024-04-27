@@ -1,0 +1,19 @@
+html{
+  background:var(--dark);
+  padding:25px;
+  display:flex;
+  justify-content: center;
+}
+
+body{
+  margin:0px;
+  border-radius:10px;
+  box-sizing: border-box;
+  background:var(--light);
+  width:calc(100vw - 50px);
+  max-width:1000px;
+}
+
+*{
+  font-family:Figtree;
+}

@@ -1,0 +1,19 @@
+/* :root{
+  --dark:#827565;
+  --darker:#5b5247;
+  --light:#D0C4B8;
+} */
+
+:root{
+  --dark:#D0C4B8;
+  --darker:#B7C8CE;
+  --darkest:#5A7682;
+  --light:white;
+}
+
+/* :root{
+  --dark:#5b5247;
+  --darker:#B7C8CE;
+  --darkest:#5A7682;
+  --light:#D0C4B8;
+} */
